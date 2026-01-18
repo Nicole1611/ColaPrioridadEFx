@@ -1,0 +1,6 @@
+com\mycompany\colaprioridadfx\view\CanvaColaP.class
+module-info.class
+com\mycompany\colaprioridadfx\App.class
+com\mycompany\colaprioridadfx\controller\ColaPController.class
+com\mycompany\colaprioridadfx\model\Prioridad.class
+com\mycompany\colaprioridadfx\model\Registro.class
